@@ -1,0 +1,17 @@
+{
+  "files.autoSave": "off",
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "stylelint.enable": true,
+  "css.validate": false,
+  "scss.validate": true,
+  "files.exclude": {
+    "**/node_modules": false
+  },
+  "px2rem-plus.base": 14,
+  "px2rem-plus.comments": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
