@@ -1,6 +1,6 @@
 import axios from 'axios';
-import { getStorage } from './localStorage';
-import store from '../store'; /* eslint import/no-cycle:0 */
+import store from '@/store';
+import { getStorage } from '@/utils/localStorage';
 
 const DEFAULT_API_URLS = '';
 

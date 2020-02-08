@@ -1,6 +1,5 @@
 const state = () => ({
   isLoading: false,
-  user: {},
 });
 
 const mutations = {

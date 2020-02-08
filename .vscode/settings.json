@@ -7,7 +7,7 @@
   "css.validate": false,
   "scss.validate": true,
   "files.exclude": {
-    "**/node_modules": false
+    "**/node_modules": true
   },
   "px2rem-plus.base": 14,
   "px2rem-plus.comments": true,

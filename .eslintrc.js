@@ -22,6 +22,7 @@ module.exports = {
   rules: {
     'import/extensions': 'off',
     'import/prefer-default-export': 'off',
+    'import/no-cycle': 'off',
     'no-console': 'off',
     'no-debugger': 'off',
   },

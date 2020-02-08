@@ -1,3 +1,3 @@
-import users from './users'; /* eslint import/no-cycle:0 */
+import users from './users';
 
 export { users };

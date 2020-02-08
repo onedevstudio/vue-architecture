@@ -1,8 +1,8 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import modules from './modules';
-import * as apiMethods from '../services';
-import { parseNetworkError } from '../utils/request'; /* eslint import/no-cycle:0 */
+import modules from '@/store/modules';
+import * as apiMethods from '@/services';
+import { parseNetworkError } from '@/utils/request';
 
 Vue.use(Vuex);
 
